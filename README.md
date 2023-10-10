@@ -16,14 +16,14 @@ Asegúrate de tener instalado lo siguiente antes de continuar:
 1. Clona este repositorio en tu máquina local usando el siguiente comando:
 
    ```shell
-   git clone https://github.com/tu-usuario/tu-repo.git
+   git clone https://github.com/a-sepulveda-r/Prueba_Tecnica_Evol.git
 
    ```
 
 2. Navega al directorio del proyecto:
 
 ```shell
-cd nombre-del-proyecto
+cd Prueba_Tecnica_Evol
 ```
 
 3. Instala las dependencias del servidor:
