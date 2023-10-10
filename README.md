@@ -81,3 +81,17 @@ npm start
 Esto iniciará la aplicación React en el puerto 3000.
 
 10. Abre tu navegador web y visita http://localhost:3000 para interactuar con la aplicación frontend.
+
+## Imagenes del proyecto funcionando
+![app1](https://github.com/a-sepulveda-r/Prueba_Tecnica_Evol/assets/99564418/0f24a8df-fcd2-4a2c-b6c1-07365fc212e4)
+
+![app2](https://github.com/a-sepulveda-r/Prueba_Tecnica_Evol/assets/99564418/7bf70176-b0a6-4502-bd87-db32905029dc)
+
+![app3](https://github.com/a-sepulveda-r/Prueba_Tecnica_Evol/assets/99564418/ff056c2f-eff8-4d80-b57e-083522493d9e)
+
+![app4](https://github.com/a-sepulveda-r/Prueba_Tecnica_Evol/assets/99564418/0d5e6299-f337-432b-8149-dfd9f66cdfd4)
+
+
+
+
+
